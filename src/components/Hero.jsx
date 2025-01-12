@@ -57,13 +57,13 @@ const Hero = () => {
         <motion.div className="w-full lg:w-1/2" variants={bounceIn}>
           <div className="flex-col flex items-center lg:items-start">
             <motion.h1
-              className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl"
+              className="pb-16 text-6xl font-bold tracking-tight lg:mt-16 lg:text-8xl"
               variants={rotateOnInView}
             >
               Gayatri Deshpande
             </motion.h1>
             <motion.span
-              className=" text-4xl tracking-tight text-transparent"
+              className="  text-4xl tracking-tight "
               variants={bounceIn}
             >
               Operations Specialist
