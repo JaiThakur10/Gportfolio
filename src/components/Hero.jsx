@@ -63,7 +63,7 @@ const Hero = () => {
               Gayatri Deshpande
             </motion.h1>
             <motion.span
-              className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent"
+              className=" text-4xl tracking-tight text-transparent"
               variants={bounceIn}
             >
               Operations Specialist

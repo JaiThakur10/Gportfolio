@@ -59,8 +59,7 @@ const About = () => {
     >
       {/* Heading */}
       <motion.h1 className="my-20 text-center text-4xl" variants={fadeInUp}>
-        About
-        <span className="text-neutral-500"> Me</span>
+        About Me
       </motion.h1>
 
       {/* Content */}

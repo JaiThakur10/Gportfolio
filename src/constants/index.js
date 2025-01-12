@@ -5,7 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `A highly motivated and enthusiastic individual with a strong work ethic, I am eager to build a successful career in the corporate world. I bring a positive attitude, a commitment to excellence, and a passion for continuous learning and growth.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `Right now I just know about me is that i a Girl well thank God i know that most people in 2024 dont even know that ! I play Valorant and Marvel Rivals most of the time my Peak Rank is Plat 2 and I also work sometimes to earn some money that me PS:`;
 
 export const EXPERIENCES = [
   {
