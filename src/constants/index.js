@@ -5,7 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `A highly motivated and enthusiastic individual with a strong work ethic, I am eager to build a successful career in the corporate world. I bring a positive attitude, a commitment to excellence, and a passion for continuous learning and growth.`;
 
-export const ABOUT_TEXT = `Right now I just know about me is that i a Girl well thank God i know that most people in 2024 dont even know that ! I play Valorant and Marvel Rivals most of the time my Peak Rank is Plat 2 and I also work sometimes to earn some money that me PS:`;
+export const ABOUT_TEXT = `Right now I just know about me is that i am a Girl well thanks to God that i know this most people in 2024 dont even know that ! I play Valorant and Marvel Rivals most of the time my Peak Rank is Plat 2 and I also work sometimes to earn some money that me PS:`;
 
 export const EXPERIENCES = [
   {
