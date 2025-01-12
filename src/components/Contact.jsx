@@ -11,6 +11,17 @@ function Contact() {
         <a href="#" className=" border-b">
           {CONTACT.email}
         </a>
+        <div className="mt-8 text-center">
+          <a
+            href="https://www.weularity.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <p className="text-gray-500 text-sm">
+              Crafted with ❤️ by Weularity.
+            </p>
+          </a>
+        </div>
       </div>
     </div>
   );
